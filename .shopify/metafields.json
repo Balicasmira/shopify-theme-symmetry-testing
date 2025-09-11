@@ -1,0 +1,86 @@
+{
+  "article": [],
+  "blog": [],
+  "brand": [],
+  "collection": [],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "faq",
+      "namespace": "elsewhere",
+      "name": "Faq",
+      "description": "",
+      "type": {
+        "name": "multi_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "size_and_fit",
+      "namespace": "elsewhere",
+      "name": "Size and fit",
+      "description": "",
+      "type": {
+        "name": "multi_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "details",
+      "namespace": "elsewhere",
+      "name": "Details",
+      "description": "",
+      "type": {
+        "name": "multi_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "supporting_media_1",
+      "namespace": "elsewhere",
+      "name": "Supporting media 1",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "supporting_media_2",
+      "namespace": "elsewhere",
+      "name": "Supporting media 2",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "supporting_media_3",
+      "namespace": "elsewhere",
+      "name": "Supporting media 3",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "supporting_media_4",
+      "namespace": "elsewhere",
+      "name": "Supporting media 4",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}
