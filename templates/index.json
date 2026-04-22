@@ -237,6 +237,7 @@
         "16359281184fd0d618-0",
         "16359281184fd0d618-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "From the people",
         "layout": "image-right",
@@ -292,6 +293,7 @@
         "7e652131-c89a-42cd-b26d-2a7d6d2950b7",
         "c9a40eba-4d41-4ab8-afa3-bebce9e038a9"
       ],
+      "disabled": true,
       "settings": {
         "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_description": "",
@@ -309,9 +311,10 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
-            "button_label": "Optional button",
+            "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
+            "title": "30-Day Returns",
+            "text": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "button_label": "",
             "link": ""
           }
         },
@@ -319,9 +322,10 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
-            "button_label": "Optional button",
+            "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
+            "title": "Free Shipping",
+            "text": "<p><strong>Enjoy free shipping on every order!</strong></p>",
+            "button_label": "",
             "link": ""
           }
         },
@@ -329,9 +333,10 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
-            "button_label": "Optional button",
+            "image": "shopify://shop_images/3_120x_79f47548-8016-4d8f-a985-5cf6d12bb6a8.avif",
+            "title": "Secure Payment",
+            "text": "<p><strong>Shop with complete peace of mind with our secure payment options.</strong></p>",
+            "button_label": "",
             "link": ""
           }
         }
@@ -342,9 +347,9 @@
         "163592857728b8bdc2-2"
       ],
       "settings": {
-        "title": "Multi-column",
-        "media_aspect_ratio": "s",
-        "media_width": 700,
+        "title": "Why Choose us ?",
+        "media_aspect_ratio": "0.8",
+        "media_width": 60,
         "text_alignment": "center",
         "button_style": "primary",
         "color_scheme": "default"
