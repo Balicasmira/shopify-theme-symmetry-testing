@@ -167,27 +167,27 @@
         "64bcaa60-a78b-4408-9413-93788f2dd8b6": {
           "type": "subheading",
           "settings": {
-            "subheading": "Subheading"
+            "subheading": ""
           }
         },
         "8963d659-f502-4f87-9a3f-d5c8c7f4bda5": {
           "type": "heading",
           "settings": {
-            "title": "À propos de nous",
+            "title": "About Us",
             "use_h1": false
           }
         },
         "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "text": "<p><em><strong>Elsie & Betts is a brand founded by Charlotte, born from a passion for timeless, comfortable and elegant clothing — pieces that bring as much pleasure to wear as they do to behold.</strong></em></p><p><em><strong>Every piece is thoughtfully crafted to bring a touch of serenity, confidence and softness to your wardrobe, one outfit at a time.</strong></em></p>",
             "enlarge_text": false
           }
         },
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5": {
           "type": "button",
           "settings": {
-            "button_label": "Button text",
+            "button_label": "Read more",
             "button_link": "",
             "button_style": "primary"
           }
