@@ -148,7 +148,7 @@
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
         "sticky_atc_behavior": "add_to_cart",
-        "sticky_atc_button_style": "secondary",
+        "sticky_atc_button_style": "primary",
         "gallery_size": "medium",
         "gallery_layout": "carousel-under",
         "enable_zoom": true,
