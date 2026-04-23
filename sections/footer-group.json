@@ -63,13 +63,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "menu_MjdMKy": {
-          "type": "menu",
-          "settings": {
-            "title": "Information",
-            "menu": "footer"
-          }
-        },
         "text_4kViFD": {
           "type": "text",
           "settings": {
@@ -79,6 +72,13 @@
             "show_social_icons": true,
             "soc_icons_large": false,
             "enable_follow_on_shop": false
+          }
+        },
+        "menu_MjdMKy": {
+          "type": "menu",
+          "settings": {
+            "title": "Information",
+            "menu": "footer"
           }
         },
         "1601308717434": {
@@ -94,8 +94,8 @@
         }
       },
       "block_order": [
-        "menu_MjdMKy",
         "text_4kViFD",
+        "menu_MjdMKy",
         "1601308717434"
       ],
       "custom_css": [],
