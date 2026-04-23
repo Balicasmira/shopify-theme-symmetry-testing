@@ -63,6 +63,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "custom_liquid_hkJeQG": {
+          "type": "custom-liquid",
+          "settings": {
+            "title": "Custom Liquid",
+            "code": "<div class=\"section-footer__row__col section-footer__menu-block\" role=\"navigation\" aria-label=\"Secondaire\">\n            \n<div class=\"section-footer__title heading-font h6 no-wrap\">Information</div>\n            \n\n            \n              <ul class=\"section-footer__menu-block__menu\">\n                \n                  <li>\n                    <a href=\"/pages/a-propos-de-nous\" class=\"no-wrap\">À propos de nous</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/pages/contact\" class=\"no-wrap\">Contactez-nous</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/policies/shipping-policy\" class=\"no-wrap\">Politique de livraison</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/policies/refund-policy\" class=\"no-wrap\">Remboursements &amp; Retours</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/policies/privacy-policy\">Politique de confidentialité</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/policies/terms-of-service\" class=\"no-wrap\">Conditions d'utilisation</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/pages/politique-de-paiement-et-moyens-de-paiement\" class=\"no-wrap\">Politique de Paiement</a>\n                  </li>\n                \n                  <li>\n                    <a href=\"/pages/foire-aux-questions-faq\" class=\"no-wrap\">Questions fréquentes</a>\n                  </li>\n                \n              </ul>\n            \n          </div>"
+          }
+        },
         "text_4kViFD": {
           "type": "text",
           "settings": {
@@ -94,6 +101,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_hkJeQG",
         "text_4kViFD",
         "menu_MjdMKy",
         "1601308717434"
