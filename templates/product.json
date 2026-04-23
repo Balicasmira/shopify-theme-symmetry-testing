@@ -91,7 +91,7 @@
           "settings": {
             "title": "Free delivery",
             "icon": "",
-            "content": "<p><strong>Enjoy free delivery on every order!</strong></p>",
+            "content": "<p><strong>Enjoy free delivery on every order! </strong></p><ul><li><strong>Estimated Total Delivery Time: 7 – 10 business days</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
             "open": false,
