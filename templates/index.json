@@ -180,7 +180,7 @@
         "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Elsie & Betts is a brand founded by Charlotte, born from a passion for timeless, comfortable and elegant clothing — pieces that bring as much pleasure to wear as they do to behold.</strong></em></p><p><em><strong>Every piece is thoughtfully crafted to bring a touch of serenity, confidence and softness to your wardrobe, one outfit at a time.</strong></em></p>",
+            "text": "<p><em><strong>Elsie & Betts ( ElsieandBetts.com) is a brand founded by Charlotte, born from a passion for timeless, comfortable and elegant clothing — pieces that bring as much pleasure to wear as they do to behold.</strong></em></p><p><em><strong>Every piece is thoughtfully crafted to bring a touch of serenity, confidence and softness to your wardrobe, one outfit at a time.</strong></em></p>",
             "enlarge_text": false
           }
         },
@@ -302,6 +302,24 @@
         "height_mobile": 480,
         "full_width": true,
         "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "1635928697c562053a": {
+      "type": "map",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "2",
+        "heading": "Elsie & Betts Store",
+        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p><strong>Opening Hours::</strong></p><ul><li>Monday to Friday: 10:00 AM – 5:00 PM</li><li>Saturday: 10:00 AM – 5:00 PM</li><li>Sunday: 11:00 AM – 3:00 PM</li></ul>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "feature_image": "shopify://shop_images/sasaposa.jpg",
+        "map_address": "34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
+        "api_key": "",
+        "map_type": "embed",
+        "map_style": "dark",
+        "background_image": "shopify://shop_images/sasaposa.jpg"
       }
     },
     "163592857728b8bdc2": {
@@ -431,24 +449,6 @@
         "enable_video_looping": false,
         "enable_media_grouping": false,
         "media_grouping_option": "Color,Colour,Couleur,Farbe"
-      }
-    },
-    "1635928697c562053a": {
-      "type": "map",
-      "settings": {
-        "full_width": true,
-        "color_scheme": "2",
-        "heading": "Elsie & Betts Store",
-        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p><strong>Opening Hours::</strong></p><ul><li>Monday to Friday: 10:00 AM – 5:00 PM</li><li>Saturday: 10:00 AM – 5:00 PM</li><li>Sunday: 11:00 AM – 3:00 PM</li></ul>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": false,
-        "feature_image": "shopify://shop_images/sasaposa.jpg",
-        "map_address": "34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
-        "api_key": "",
-        "map_type": "embed",
-        "map_style": "dark",
-        "background_image": "shopify://shop_images/sasaposa.jpg"
       }
     },
     "163592870141219e2f": {
