@@ -100,7 +100,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "lower_menu": "footer",
+        "lower_menu": "",
         "show_powered_by": false,
         "show_payment_icons": true,
         "enable_country_selector": true,
