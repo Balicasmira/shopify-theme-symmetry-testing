@@ -26,7 +26,7 @@
         "custom_liquid_eJcmi9": {
           "type": "custom-liquid",
           "settings": {
-            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-lines{display:flex;flex-direction:column;gap:4px;}\n.ms-line{display:flex;flex-wrap:nowrap;align-items:center;}\n.ms-line-icon{height:20px;width:20px;margin-right:8px;flex-shrink:0;}\n.ms-line-icon img{height:20px;width:20px;object-fit:contain;}\n.ms-line-text p{margin:0;padding:0;color:#2e2a39;font-size:16px;}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Delivery in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Returns within 30 days<b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
+            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-lines{display:flex;flex-direction:column;gap:4px;}\n.ms-line{display:flex;flex-wrap:nowrap;align-items:center;}\n.ms-line-icon{height:20px;width:20px;margin-right:8px;flex-shrink:0;}\n.ms-line-icon img{height:20px;width:20px;object-fit:contain;}\n.ms-line-text p{margin:0;padding:0;color:#2e2a39;font-size:16px;}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Delivery in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Returns within 30 days</b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
             "show_in_quickbuy": false
           }
         },
@@ -78,10 +78,47 @@
         },
         "description": {
           "type": "description",
+          "name": "Des",
           "settings": {
             "show_in_tab": true,
             "open_tab": false,
             "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_b8WfgP": {
+          "type": "accordion",
+          "settings": {
+            "title": "Free delivery",
+            "icon": "",
+            "content": "<p><strong>Enjoy free delivery on every order!</strong></p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_EwCymW": {
+          "type": "accordion",
+          "settings": {
+            "title": "Returns within 30 days",
+            "icon": "",
+            "content": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_bTM3cw": {
+          "type": "accordion",
+          "settings": {
+            "title": "Secure payment",
+            "icon": "",
+            "content": "<p><strong>Shop with complete peace of mind using our secure payment options.</strong></p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
             "show_in_quickbuy": false
           }
         }
@@ -96,7 +133,10 @@
         "divider_mHJB3G",
         "buy-buttons",
         "custom_liquid_mhqWgz",
-        "description"
+        "description",
+        "accordion_b8WfgP",
+        "accordion_EwCymW",
+        "accordion_bTM3cw"
       ],
       "settings": {
         "show_breadcrumbs": true,
