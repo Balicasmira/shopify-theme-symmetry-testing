@@ -439,7 +439,7 @@
         "full_width": true,
         "color_scheme": "2",
         "heading": "Elsie & Betts",
-        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p></p><p><strong>Monday10 AM–5 PM</strong></p><p><strong>Tuesday10 AM–5 PM</strong></p><p><strong>Wednesday10 AM–5 PM</strong></p><p><strong>Thursday10 AM–5 PM</strong></p><p><strong>Friday10 AM–5 PM</strong></p><p><strong>Saturday10 AM–5 PM</strong></p><p><strong>Sunday11 AM–3 PM</strong></p>",
+        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p><strong>Opening Hours::</strong></p><ul><li>Monday to Friday: 10:00 AM – 5:00 PM</li><li>Saturday: 10:00 AM – 5:00 PM</li><li>Sunday: 11:00 AM – 3:00 PM</li></ul>",
         "button": "Directions",
         "show_pin": true,
         "show_feature_image": false,
