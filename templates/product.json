@@ -139,7 +139,9 @@
         "accordion_EwCymW",
         "accordion_bTM3cw"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".btn--large {transform: scale(1.5); /* Makes it 50% larger */}"
+      ],
       "settings": {
         "show_breadcrumbs": false,
         "select_first_variant": true,
