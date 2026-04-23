@@ -79,7 +79,6 @@
         "description": {
           "type": "description",
           "name": "Des",
-          "disabled": true,
           "settings": {
             "show_in_tab": true,
             "open_tab": false,
@@ -143,7 +142,7 @@
       "settings": {
         "show_breadcrumbs": false,
         "select_first_variant": true,
-        "show_location_underneath": true,
+        "show_location_underneath": false,
         "inventory_transfers_enable": false,
         "enable_sticky_columns": false,
         "enable_sticky_atc": true,
@@ -276,7 +275,7 @@
         "text_block_bnqTgb"
       ],
       "custom_css": [
-        "{background-color: #F5F5F5;}"
+        "{background-color: #f5f5f5;}"
       ],
       "name": "Multi-column",
       "settings": {
