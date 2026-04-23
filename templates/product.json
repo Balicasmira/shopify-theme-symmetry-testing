@@ -1,1 +1,121 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"vendor":{"type":"vendor","settings":{}},"divider":{"type":"divider","settings":{}},"variant-picker":{"type":"variant-picker","settings":{}},"buy-buttons":{"type":"buy-buttons","settings":{}},"description":{"type":"description","settings":{}}},"block_order":["title","price","vendor","divider","variant-picker","buy-buttons","description"],"settings":{}},"related-products":{"type":"related-products","settings":{}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "custom_liquid_eJcmi9": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-lines{display:flex;flex-direction:column;gap:4px;}\n.ms-line{display:flex;flex-wrap:nowrap;align-items:center;}\n.ms-line-icon{height:20px;width:20px;margin-right:8px;flex-shrink:0;}\n.ms-line-icon img{height:20px;width:20px;object-fit:contain;}\n.ms-line-text p{margin:0;padding:0;color:#2e2a39;font-size:16px;}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Delivery in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Returns within 30 days<b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": false,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": false,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "custom_liquid_eJcmi9",
+        "vendor",
+        "divider",
+        "variant-picker",
+        "buy-buttons",
+        "description"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "select_first_variant": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": false,
+        "enable_sticky_atc": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "sticky_atc_behavior": "add_to_cart",
+        "sticky_atc_button_style": "secondary",
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
+}
