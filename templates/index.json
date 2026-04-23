@@ -27,7 +27,7 @@
             "text": "",
             "enlarge_text": true,
             "button_label_1": "ALL PRODUCTS",
-            "button_url_1": "shopify://collections",
+            "button_url_1": "https://elsieandbetts.com/collections/all",
             "button_label_2": "",
             "button_url_2": "",
             "text_alignment": "center center"
@@ -62,7 +62,7 @@
             "subheading": "",
             "title": "Men's Selection",
             "button_label": "",
-            "link": "",
+            "link": "shopify://collections/men-collection",
             "text_alignment": "bottom left"
           }
         },
@@ -74,7 +74,7 @@
             "subheading": "",
             "title": "Women's Selection",
             "button_label": "",
-            "link": "",
+            "link": "shopify://collections/women-collection",
             "text_alignment": "bottom left"
           }
         }
@@ -105,7 +105,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "NEW ARRIVALS WOMEN",
-        "collection": "",
+        "collection": "women-collection",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
@@ -128,7 +128,7 @@
         "1635927863703110df-2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>If you are not completely satisfied with your purchase, we will give you a full refund!</strong></p>",
+            "text": "<p><strong>Our commitment is to guarantee customer satisfaction. If you are not satisfied with your purchase, rest assured that we offer a 30-day return period.</strong></p>",
             "enlarge_text": true
           }
         }
@@ -150,8 +150,8 @@
     "featured_collection_dA3JmY": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS WOMEN",
-        "collection": "",
+        "title": "NEW ARRIVALS MEN",
+        "collection": "men-collection",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
