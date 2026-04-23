@@ -276,7 +276,7 @@
         "text_block_bnqTgb"
       ],
       "custom_css": [
-        "{background-color: white;}"
+        "{background-color: #F5F5F5;}"
       ],
       "name": "Multi-column",
       "settings": {
