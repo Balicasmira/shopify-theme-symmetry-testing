@@ -282,6 +282,15 @@
         "button_style": "primary",
         "color_scheme": "default"
       }
+    },
+    "custom_liquid_MyTTGX": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "show_space": true,
+        "code": "<div class=\"accordion-box rounded bg-secondary\"><details class=\" accordion  group\" aria-expanded=\"false\" is=\"accordion-disclosure\">\n  <summary><div class=\"accordion__toggle bold\"><span>Livrez-vous à l'étranger ?</span><span class=\"circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate\"><svg role=\"presentation\" focusable=\"false\" width=\"8\" height=\"6\" class=\"icon icon-chevron-bottom-small\" viewBox=\"0 0 8 6\">\n        <path d=\"m1 1.5 3 3 3-3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path>\n      </svg></span>\n    </div>\n  </summary>\n\n  <div class=\"accordion__content\"><div class=\"prose\"><p>Oui, nous livrons partout dans le monde. Nous livrons actuellement dans plus de 65 pays. Des frais de livraison s'appliquent et seront ajoutés lors <strong>du paiement</strong>.<br><br>La livraison est <strong>GRATUITE</strong> pour toutes les commandes supérieures à 100 €.<br><br></p></div></div>\n</details><details class=\" accordion  group\" aria-expanded=\"false\" is=\"accordion-disclosure\">\n  <summary><div class=\"accordion__toggle bold\"><span>Combien de temps faudra-t-il pour recevoir mes commandes ?</span><span class=\"circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate\"><svg role=\"presentation\" focusable=\"false\" width=\"8\" height=\"6\" class=\"icon icon-chevron-bottom-small\" viewBox=\"0 0 8 6\">\n        <path d=\"m1 1.5 3 3 3-3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path>\n      </svg></span>\n    </div>\n  </summary>\n\n  <div class=\"accordion__content\"><div class=\"prose\"><p>Toutes les commandes seront expédiées dans<strong>les 24 à 48 heures</strong>, et la livraison prendra environ<strong>5 à 7 jours ouvrables</strong>selon votre localisation.<br><br>Les détails de livraison vous seront communiqués <strong>lors du paiement et </strong> dans votre <strong>e-mail de confirmation.</strong></p></div></div>\n</details><details class=\" accordion  group\" aria-expanded=\"false\" is=\"accordion-disclosure\">\n  <summary><div class=\"accordion__toggle bold\"><span>Quelles sont les règles de retour ?</span><span class=\"circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate\"><svg role=\"presentation\" focusable=\"false\" width=\"8\" height=\"6\" class=\"icon icon-chevron-bottom-small\" viewBox=\"0 0 8 6\">\n        <path d=\"m1 1.5 3 3 3-3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path>\n      </svg></span>\n    </div>\n  </summary>\n\n  <div class=\"accordion__content\"><div class=\"prose\"><p>Vous pouvez retourner un produit pour quelque raison que ce soit <strong>dans un délai de 30 jours.</strong> Aucune question ne vous sera posée.<br><br></p></div></div>\n</details><details class=\" accordion  group\" aria-expanded=\"false\" is=\"accordion-disclosure\">\n  <summary><div class=\"accordion__toggle bold\"><span>Livrez-vous dans mon pays ?</span><span class=\"circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate\"><svg role=\"presentation\" focusable=\"false\" width=\"8\" height=\"6\" class=\"icon icon-chevron-bottom-small\" viewBox=\"0 0 8 6\">\n        <path d=\"m1 1.5 3 3 3-3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path>\n      </svg></span>\n    </div>\n  </summary>\n\n  <div class=\"accordion__content\"><div class=\"prose\"><p>Nous avons exclu les pays vers lesquels nous ne pouvons pas expédier de produits lors du paiement. Cela signifie que si vous pouvez passer à la caisse, nous pouvons expédier vers votre pays.</p></div></div>\n</details><details class=\" accordion  group\" aria-expanded=\"false\" is=\"accordion-disclosure\">\n  <summary><div class=\"accordion__toggle bold\"><span>Autre question ?</span><span class=\"circle-chevron group-hover:colors group-expanded:colors group-expanded:rotate\"><svg role=\"presentation\" focusable=\"false\" width=\"8\" height=\"6\" class=\"icon icon-chevron-bottom-small\" viewBox=\"0 0 8 6\">\n        <path d=\"m1 1.5 3 3 3-3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path>\n      </svg></span>\n    </div>\n  </summary>\n\n  <div class=\"accordion__content\"><div class=\"prose\"><p>Vous pouvez nous contacter via notre <a href=\"/fr/en-en/pages/contact-us\" title=\"Contactez-nous\">page de contact</a>! Nous serons ravis de vous aider.</p></div></div>\n</details></div>"
+      }
     }
   },
   "order": [
@@ -290,6 +299,7 @@
     "featured_collection_rhw8d8",
     "image_with_text_Uj9GGn",
     "featured_collection_fHmY8b",
-    "multi_column_qjHh6K"
+    "multi_column_qjHh6K",
+    "custom_liquid_MyTTGX"
   ]
 }
