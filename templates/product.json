@@ -20,7 +20,7 @@
           "type": "price",
           "settings": {
             "show_tax_and_shipping": false,
-            "enable_product_reviews_by_price": true
+            "enable_product_reviews_by_price": false
           }
         },
         "custom_liquid_eJcmi9": {
@@ -236,17 +236,6 @@
     "multi_column_qjHh6K": {
       "type": "multi-column",
       "blocks": {
-        "text_block_bnqTgb": {
-          "type": "text_block",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
-            "title": "30-Day Returns",
-            "text": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
         "text_block_ThQPNW": {
           "type": "text_block",
           "settings": {
@@ -268,12 +257,23 @@
             "button_label": "",
             "link": ""
           }
+        },
+        "text_block_bnqTgb": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
+            "title": "30-Day Returns",
+            "text": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "button_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "text_block_bnqTgb",
         "text_block_ThQPNW",
-        "text_block_HfGNEH"
+        "text_block_HfGNEH",
+        "text_block_bnqTgb"
       ],
       "custom_css": [
         "{background-color: beige;}"
