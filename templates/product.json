@@ -232,6 +232,24 @@
         "full_width": true
       }
     },
+    "map_eyNyNC": {
+      "type": "map",
+      "name": "Map",
+      "settings": {
+        "full_width": false,
+        "color_scheme": "2",
+        "heading": "Elsie & Betts Store",
+        "address": "<p><strong>Store Address:</strong> 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom</p><p><strong>Opening Hours::</strong></p><ul><li>Monday to Friday: 10:00 AM – 5:00 PM</li><li>Saturday: 10:00 AM – 5:00 PM</li><li>Sunday: 11:00 AM – 3:00 PM</li></ul>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": true,
+        "feature_image": "shopify://shop_images/sasaposa_1f0cc2c4-e26d-4429-a99d-32b8a45ebaed.jpg",
+        "map_address": "34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
+        "api_key": "",
+        "map_type": "embed",
+        "map_style": "silver"
+      }
+    },
     "multi_column_qjHh6K": {
       "type": "multi-column",
       "blocks": {
@@ -286,6 +304,84 @@
         "button_style": "primary",
         "color_scheme": "default"
       }
+    },
+    "key_features_4zXiYk": {
+      "type": "key-features",
+      "blocks": {
+        "feature_j8z999": {
+          "type": "feature",
+          "settings": {
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Stretch",
+            "text": "<p>Describe a key feature in detail.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_4DdXK8": {
+          "type": "feature",
+          "settings": {
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Warmth",
+            "text": "<p>Describe a key feature in detail.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_gexKzf": {
+          "type": "feature",
+          "settings": {
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Water resistance",
+            "text": "<p>Describe a key feature in detail.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_j8z999",
+        "feature_4DdXK8",
+        "feature_gexKzf"
+      ],
+      "name": "Key features",
+      "settings": {
+        "heading": "Key features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
     }
   },
   "order": [
@@ -294,6 +390,8 @@
     "featured_collection_rhw8d8",
     "image_with_text_Uj9GGn",
     "featured_collection_LeH3M6",
-    "multi_column_qjHh6K"
+    "map_eyNyNC",
+    "multi_column_qjHh6K",
+    "key_features_4zXiYk"
   ]
 }
