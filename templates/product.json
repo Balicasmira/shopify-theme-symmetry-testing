@@ -53,10 +53,16 @@
             "size_chart_page": ""
           }
         },
+        "divider_mHJB3G": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
-            "show_quantity_selector": true,
+            "show_quantity_selector": false,
             "enable_payment_button": true,
             "show_backorder_text": false,
             "show_pickup_availability": true,
@@ -80,6 +86,7 @@
         "vendor",
         "divider",
         "variant-picker",
+        "divider_mHJB3G",
         "buy-buttons",
         "description"
       ],
