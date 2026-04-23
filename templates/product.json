@@ -306,82 +306,44 @@
         "color_scheme": "default"
       }
     },
-    "key_features_4zXiYk": {
-      "type": "key-features",
+    "shop_the_look_gyRezB": {
+      "type": "shop-the-look",
       "blocks": {
-        "feature_j8z999": {
-          "type": "feature",
+        "heading_xLgH7L": {
+          "type": "heading",
           "settings": {
-            "bg_color": "#e3e3e3",
-            "bg_gradient": "",
-            "text_color": "#505050",
-            "heading": "Stretch",
-            "text": "<p>Describe a key feature in detail.</p>",
-            "show_segments": true,
-            "segments": 5,
-            "active_segment": "4",
-            "fill_segments": true,
-            "show_labels": true,
-            "label_left": "",
-            "label_middle": "",
-            "label_right": "",
-            "show_icon": false,
-            "icon": "star"
-          }
-        },
-        "feature_4DdXK8": {
-          "type": "feature",
-          "settings": {
-            "bg_color": "#c3c3c3",
-            "bg_gradient": "",
-            "text_color": "#505050",
-            "heading": "Warmth",
-            "text": "<p>Describe a key feature in detail.</p>",
-            "show_segments": true,
-            "segments": 5,
-            "active_segment": "2",
-            "fill_segments": true,
-            "show_labels": true,
-            "label_left": "",
-            "label_middle": "",
-            "label_right": "",
-            "show_icon": false,
-            "icon": "star"
-          }
-        },
-        "feature_gexKzf": {
-          "type": "feature",
-          "settings": {
-            "bg_color": "#e3e3e3",
-            "bg_gradient": "",
-            "text_color": "#505050",
-            "heading": "Water resistance",
-            "text": "<p>Describe a key feature in detail.</p>",
-            "show_segments": true,
-            "segments": 5,
-            "active_segment": "3",
-            "fill_segments": true,
-            "show_labels": true,
-            "label_left": "",
-            "label_middle": "",
-            "label_right": "",
-            "show_icon": false,
-            "icon": "star"
+            "title": "Summer Collection",
+            "heading_max_width": 10,
+            "title_size": 56,
+            "title_size_mobile": 26,
+            "use_h1": false
           }
         }
       },
       "block_order": [
-        "feature_j8z999",
-        "feature_4DdXK8",
-        "feature_gexKzf"
+        "heading_xLgH7L"
       ],
-      "name": "Key features",
+      "name": "Shop the look",
       "settings": {
-        "heading": "Key features",
-        "image_max_width": 700,
-        "media_aspect_ratio": "1",
-        "image_position": "left",
-        "segment_position": "over-text"
+        "image": "shopify://shop_images/Bohemian_Embroidered_Kaftan_Dress___Women_s_Summer_Dress_4.jpg",
+        "video_external": "",
+        "video_description": "",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "product_list": [
+          "flora-puff-sleeve-floral-mini-dress-women",
+          "zahara-embroidered-bohemian-kaftan-dress-women",
+          "soleil-satin-off-shoulder-evening-gown-women",
+          "camden-vintage-suede-comfort-shoes-women"
+        ],
+        "products_alignment": "bottom right",
+        "product_card_layout": "landscape",
+        "show_swatches": true,
+        "full_width": true,
+        "text_alignment": "top left",
+        "mobile_overlay_over": false,
+        "overlay_style": "shadow"
       }
     }
   },
@@ -393,6 +355,6 @@
     "featured_collection_LeH3M6",
     "map_eyNyNC",
     "multi_column_qjHh6K",
-    "key_features_4zXiYk"
+    "shop_the_look_gyRezB"
   ]
 }
