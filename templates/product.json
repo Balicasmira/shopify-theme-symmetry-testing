@@ -44,10 +44,10 @@
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
-            "show_single": false,
+            "show_single": true,
             "selector_style": "listed",
             "dynamic_availability": "show",
-            "enable_size_chart": false,
+            "enable_size_chart": true,
             "size_chart_label": "Size guide",
             "size_chart_variant": "Size",
             "size_chart_page": ""
@@ -65,7 +65,7 @@
             "show_quantity_selector": false,
             "enable_payment_button": false,
             "show_backorder_text": false,
-            "show_pickup_availability": true,
+            "show_pickup_availability": false,
             "show_gift_card_recipient": false
           }
         },
@@ -138,12 +138,13 @@
         "accordion_EwCymW",
         "accordion_bTM3cw"
       ],
+      "custom_css": [],
       "settings": {
-        "show_breadcrumbs": true,
+        "show_breadcrumbs": false,
         "select_first_variant": true,
-        "show_location_underneath": false,
-        "inventory_transfers_enable": true,
-        "enable_sticky_columns": false,
+        "show_location_underneath": true,
+        "inventory_transfers_enable": false,
+        "enable_sticky_columns": true,
         "enable_sticky_atc": true,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
