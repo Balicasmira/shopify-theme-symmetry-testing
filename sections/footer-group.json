@@ -74,7 +74,7 @@
             "enable_follow_on_shop": false
           }
         },
-        "1601308671932": {
+        "menu_MjdMKy": {
           "type": "menu",
           "settings": {
             "title": "Information",
@@ -95,7 +95,7 @@
       },
       "block_order": [
         "text_4kViFD",
-        "1601308671932",
+        "menu_MjdMKy",
         "1601308717434"
       ],
       "custom_css": [],

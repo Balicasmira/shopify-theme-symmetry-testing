@@ -225,7 +225,7 @@
         "title": "BestSeller",
         "collection": "bestseller",
         "show_vendor": false,
-        "enable_carousel": false,
+        "enable_carousel": true,
         "grid": 4,
         "rows": 1,
         "color_scheme": "default",
@@ -281,7 +281,7 @@
       "name": "Multi-column",
       "settings": {
         "title": "Why Choose us ?",
-        "media_aspect_ratio": "1",
+        "media_aspect_ratio": "s",
         "media_width": 100,
         "text_alignment": "center",
         "button_style": "primary",
