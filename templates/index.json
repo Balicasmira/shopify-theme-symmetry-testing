@@ -121,14 +121,14 @@
         "1635927863703110df-1": {
           "type": "heading",
           "settings": {
-            "title": "Retours sous 30 jours",
+            "title": "Returns within 30 days",
             "use_h1": true
           }
         },
         "1635927863703110df-2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Si vous n’êtes pas entièrement satisfait(e) de votre achat, nous vous remboursons intégralement !</strong></p>",
+            "text": "<p><strong>If you are not completely satisfied with your purchase, we will give you a full refund!</strong></p>",
             "enlarge_text": true
           }
         }
