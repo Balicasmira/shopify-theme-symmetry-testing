@@ -444,7 +444,7 @@
         "show_pin": true,
         "show_feature_image": false,
         "feature_image": "shopify://shop_images/sasaposa.jpg",
-        "map_address": "Elsie & Betts Shoreham Ltd, 34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
+        "map_address": "34 East St, Shoreham-by-Sea BN43 5ZD, United Kingdom",
         "api_key": "",
         "map_type": "embed",
         "map_style": "dark",
