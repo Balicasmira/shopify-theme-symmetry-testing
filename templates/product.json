@@ -169,22 +169,6 @@
         "grid": 4
       }
     },
-    "featured_collection_rhw8d8": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "Featured collection",
-      "settings": {
-        "title": "You may also like",
-        "collection": "",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "color_scheme": "default",
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
     "image_with_text_Uj9GGn": {
       "type": "image-with-text",
       "blocks": {
@@ -210,6 +194,7 @@
       "name": "Image with text",
       "settings": {
         "image": "shopify://shop_images/pexels-calbert-warner-2889944.webp",
+        "image_2": "shopify://shop_images/women-fashion-brand-elegant-in-nature-4k.png",
         "image_width": 390,
         "image_link": "",
         "image_position": "left",
@@ -323,6 +308,7 @@
       "block_order": [
         "heading_xLgH7L"
       ],
+      "disabled": true,
       "name": "Shop the look",
       "settings": {
         "image": "shopify://shop_images/Bohemian_Embroidered_Kaftan_Dress___Women_s_Summer_Dress_4.jpg",
@@ -350,7 +336,6 @@
   "order": [
     "main",
     "related-products",
-    "featured_collection_rhw8d8",
     "image_with_text_Uj9GGn",
     "featured_collection_LeH3M6",
     "map_eyNyNC",
