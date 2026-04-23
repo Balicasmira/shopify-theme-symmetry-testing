@@ -216,6 +216,21 @@
         "color_scheme": "default"
       }
     },
+    "featured_collection_fHmY8b": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "BestSeller",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "multi_column_qjHh6K": {
       "type": "multi-column",
       "blocks": {
@@ -274,6 +289,7 @@
     "related-products",
     "featured_collection_rhw8d8",
     "image_with_text_Uj9GGn",
+    "featured_collection_fHmY8b",
     "multi_column_qjHh6K"
   ]
 }
