@@ -80,7 +80,7 @@
           "type": "description",
           "name": "Des",
           "settings": {
-            "show_in_tab": true,
+            "show_in_tab": false,
             "open_tab": false,
             "icon": "",
             "show_in_quickbuy": false
