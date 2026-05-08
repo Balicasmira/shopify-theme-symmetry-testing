@@ -47,7 +47,7 @@
             "show_single": true,
             "selector_style": "listed",
             "dynamic_availability": "show",
-            "enable_size_chart": true,
+            "enable_size_chart": false,
             "size_chart_label": "Size guide",
             "size_chart_variant": "Size",
             "size_chart_page": "s"
