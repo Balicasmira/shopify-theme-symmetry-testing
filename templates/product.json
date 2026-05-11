@@ -23,6 +23,13 @@
             "enable_product_reviews_by_price": false
           }
         },
+        "custom_liquid_78dW6N": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<p><span style=\"color: #ff6600; font-family: Montserrat, sans-serif; font-size: 23.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration: line-through; display: inline !important; float: none;\">£90.00</span></p>",
+            "show_in_quickbuy": false
+          }
+        },
         "custom_liquid_eJcmi9": {
           "type": "custom-liquid",
           "settings": {
@@ -126,6 +133,7 @@
       "block_order": [
         "title",
         "price",
+        "custom_liquid_78dW6N",
         "custom_liquid_eJcmi9",
         "vendor",
         "divider",
