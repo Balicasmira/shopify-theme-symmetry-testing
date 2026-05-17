@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "localization": {
@@ -461,6 +470,13 @@
       "vendor": "Product vendor",
       "sku": "SKU1234",
       "description": "A description of the product, including details such as build quality, materials used and reasons to purchase."
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping_errors": {
+        "empty_state": "- FREE SHIPPING - "
+      }
     }
   }
 }
