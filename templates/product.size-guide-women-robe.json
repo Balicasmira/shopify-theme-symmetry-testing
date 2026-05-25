@@ -269,7 +269,7 @@
             "enable_media": true,
             "image": "shopify://shop_images/1_120x_6e0e523f-07d7-442a-bc70-3008d485cc0b.avif",
             "title": "Free Shipping",
-            "text": "<p><strong>Enjoy free shipping on every order!</strong></p>",
+            "text": "<p><strong>Free delivery on all UK orders.</strong></p>",
             "button_label": "",
             "link": ""
           }
@@ -291,7 +291,7 @@
             "enable_media": true,
             "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
             "title": "30-Day Returns",
-            "text": "<p><strong>Not satisfied? Get a full refund!</strong></p>",
+            "text": "<p><strong>Not satisfied? Get a full refund on unused items</strong></p>",
             "button_label": "",
             "link": ""
           }
