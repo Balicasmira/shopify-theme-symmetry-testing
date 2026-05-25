@@ -77,6 +77,13 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_BxjG9q": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"\ndisplay:flex;\nalign-items:center;\ngap:12px;\npadding:14px 16px;\nborder:1px solid #E5E7EB;\nborder-radius:12px;\nbackground:#fff;\nmargin-bottom:18px;\n\">\n\n<div style=\"\nbackground:#00B67A;\ncolor:#fff;\nfont-size:20px;\npadding:8px 10px;\nborder-radius:10px;\nline-height:1;\n\">\n★★★★★\n</div>\n\n<div style=\"flex:1;\">\n\n<div style=\"\nfont-size:14px;\nfont-weight:700;\ncolor:#111;\nmargin-bottom:4px;\n\">\nExcellent\n</div>\n\n<div style=\"\nfont-size:14px;\ncolor:#444;\n\">\nTrustPilot Score <strong>4.2</strong> out of <strong>5\n</div>\n\n<div style=\"\nfont-size:13px;\ncolor:#777;\nmargin-top:2px;\n\">\nBased on <strong>90 reviews</strong>\n</div>\n\n</div>\n\n<a\nhref=\"https://www.trustpilot.com/review/elsieandbetts.com\"\ntarget=\"_blank\"\nstyle=\"\nfont-size:13px;\nfont-weight:600;\ncolor:#00B67A;\ntext-decoration:none;\nwhite-space:nowrap;\n\">\nView Reviews →\n</a>\n\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
         "custom_liquid_mhqWgz": {
           "type": "custom-liquid",
           "settings": {
@@ -141,6 +148,7 @@
         "variant-picker",
         "divider_mHJB3G",
         "buy-buttons",
+        "custom_liquid_BxjG9q",
         "custom_liquid_mhqWgz",
         "description",
         "accordion_b8WfgP",
