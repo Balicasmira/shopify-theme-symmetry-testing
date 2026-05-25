@@ -44,13 +44,13 @@
           <span class="price__from">{{ 'products.product.from' | t }}</span>
         {%- endif -%}
       {%- endif %}
-      <span  class="js-value">
+      <span style="color:#B05800" class="js-value"><b>
         {%- if show_currency_code -%}
           {{ price | money_with_currency }}
         {%- else -%}
           {{ price | money }}
         {%- endif -%}
-     </span>
+      </b> </span>
     </span>
     {% if for_variant_picker or compare_at_price > price -%}
       <span class="price__was">
