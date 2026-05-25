@@ -446,7 +446,7 @@
                       {%- endcapture -%}
                       <button class="btn btn--large add-to-cart" style="background-color:green" type="submit" name="add" data-add-to-cart-text="{{ add_to_cart_text | escape }}"{% if product.available == false %} disabled{% endif %}>
                         {%- if current_variant.available or current_variant == false -%}
-                          {{- add_to_cart_text -}}
+                          PRO
                         {%- else -%}
                           {{- 'products.variant.no_stock' | t -}}
                         {%- endif -%}
