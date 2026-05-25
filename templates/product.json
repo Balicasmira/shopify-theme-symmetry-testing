@@ -232,7 +232,7 @@
       "name": "Featured collection",
       "settings": {
         "title": "BestSeller",
-        "collection": "bestseller",
+        "collection": "gmcy",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
