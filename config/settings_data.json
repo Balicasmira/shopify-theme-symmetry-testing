@@ -459,7 +459,7 @@
     "color_scheme_2_btn_alt_text": "#232323",
     "quickbuy_color_scheme": "default",
     "prod_over_redu_text": "#232323",
-    "prod_over_redu_bold": false,
+    "prod_over_redu_bold": true,
     "prod_over_redu_bg": "#efefef",
     "prod_over_low_text": "#232323",
     "prod_over_low_bg": "#efefef",
