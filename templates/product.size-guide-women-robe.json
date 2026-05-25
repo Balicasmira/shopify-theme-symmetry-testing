@@ -268,8 +268,8 @@
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/1_120x_6e0e523f-07d7-442a-bc70-3008d485cc0b.avif",
-            "title": "Free Shipping",
-            "text": "<p><strong>Free delivery on all UK orders.</strong></p>",
+            "title": "Free Delivery",
+            "text": "<p><strong>Enjoy Free delivery on all UK orders.</strong></p>",
             "button_label": "",
             "link": ""
           }
