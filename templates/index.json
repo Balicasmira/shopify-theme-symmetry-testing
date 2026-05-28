@@ -217,7 +217,7 @@
       "name": "Featured collection",
       "settings": {
         "title": "Shop Our Favorites",
-        "collection": "new-arrivals",
+        "collection": "explore-collection",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
