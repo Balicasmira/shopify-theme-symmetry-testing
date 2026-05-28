@@ -212,6 +212,21 @@
         "color_scheme": "default"
       }
     },
+    "featured_collection_3wQ7FK": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "Shop Our Favorites",
+        "collection": "new-arrivals",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "image_with_text_wEmcpX": {
       "type": "image-with-text",
       "blocks": {
@@ -528,6 +543,7 @@
     "1635927863703110df",
     "featured_collection_dA3JmY",
     "16359278867b92de38",
+    "featured_collection_3wQ7FK",
     "image_with_text_wEmcpX",
     "custom_liquid_TQirXn",
     "16359281184fd0d618",
