@@ -132,7 +132,7 @@
             "title": "Customer Support",
             "text": "<p>Need help? We’re here for you.</p><p>Support Hours:</p><p><strong>Monday – Saturday, 9:00 AM – 7:00 PM</strong></p><p>We strive to answer all inquiries within 12 hours .</p>",
             "image_width": 150,
-            "show_social_icons": true,
+            "show_social_icons": false,
             "soc_icons_large": true,
             "enable_follow_on_shop": false
           }
