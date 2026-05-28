@@ -230,6 +230,15 @@
         "color_scheme": "default"
       }
     },
+    "custom_liquid_9iwXaQ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "show_space": false,
+        "code": "<section id=\"shopify-section-template--26368028442943__custom_liquid_PnBLMC\" class=\"shopify-section section\"><style data-shopify=\"\">.section-template--26368028442943__custom_liquid_PnBLMC-padding {\n    padding-top: calc(40px * 0.75);\n    padding-bottom: calc(52px  * 0.75);\n  }\n\n  @media screen and (min-width: 750px) {\n    .section-template--26368028442943__custom_liquid_PnBLMC-padding {\n      padding-top: 40px;\n      padding-bottom: 52px;\n    }\n  }</style><div class=\"color-scheme-2 gradient\">\n  <div class=\"section-template--26368028442943__custom_liquid_PnBLMC-padding\">\n    <!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div style=\"display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px; padding: 60px 20px; max-width: 1200px; margin: auto; text-align: center; font-family: 'Noto Serif', serif;\">\n\n  <!-- Free Shipping -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      FREE SHIPPING\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Free shipping on all U.K. orders. Delivered straight to your door with no extra or hidden fees.\n    </p>\n  </div>\n\n  <!-- 30-Day Returns -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      30-DAY FREE RETURNS\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Enjoy easy, worry-free returns within 30 days. Your satisfaction is always guaranteed.\n    </p>\n  </div>\n\n  <!-- Customer Support -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      CUSTOMER SUPPORT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Need help? Our support team is here for you and ready to assist with anything you need.\n    </p>\n  </div>\n\n  <!-- Secure Payment -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      SECURE PAYMENT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Shop confidently. Every payment is encrypted and securely processed for maximum protection.\n    </p>\n  </div>\n\n</div>\n  </div>\n</div>\n\n\n</section>"
+      }
+    },
     "featured_collection_LeH3M6": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -243,15 +252,6 @@
         "color_scheme": "default",
         "show_view_all": true,
         "full_width": true
-      }
-    },
-    "custom_liquid_AEqHc9": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "show_space": true,
-        "code": "<section id=\"shopify-section-template--26368028442943__custom_liquid_PnBLMC\" class=\"shopify-section section\"><style data-shopify=\"\">.section-template--26368028442943__custom_liquid_PnBLMC-padding {\n    padding-top: calc(40px * 0.75);\n    padding-bottom: calc(52px  * 0.75);\n  }\n\n  @media screen and (min-width: 750px) {\n    .section-template--26368028442943__custom_liquid_PnBLMC-padding {\n      padding-top: 40px;\n      padding-bottom: 52px;\n    }\n  }</style><div class=\"color-scheme-2 gradient\">\n  <div class=\"section-template--26368028442943__custom_liquid_PnBLMC-padding\">\n    <!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div style=\"display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px; padding: 60px 20px; max-width: 1200px; margin: auto; text-align: center; font-family: 'Noto Serif', serif;\">\n\n  <!-- Free Shipping -->\n  <div style=\"flex: 1; min-width: 20px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      FREE SHIPPING\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Free shipping on all U.K. orders. Delivered straight to your door with no extra or hidden fees.\n    </p>\n  </div>\n\n  <!-- 30-Day Returns -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      30-DAY FREE RETURNS\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Enjoy easy, worry-free returns within 30 days. Your satisfaction is always guaranteed.\n    </p>\n  </div>\n\n  <!-- Customer Support -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      CUSTOMER SUPPORT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Need help? Our support team is here for you and ready to assist with anything you need.\n    </p>\n  </div>\n\n  <!-- Secure Payment -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      SECURE PAYMENT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Shop confidently. Every payment is encrypted and securely processed for maximum protection.\n    </p>\n  </div>\n\n</div>\n  </div>\n</div>\n\n\n</section>"
       }
     },
     "map_eyNyNC": {
@@ -376,8 +376,8 @@
     "main",
     "related-products",
     "image_with_text_Uj9GGn",
+    "custom_liquid_9iwXaQ",
     "featured_collection_LeH3M6",
-    "custom_liquid_AEqHc9",
     "map_eyNyNC",
     "multi_column_qjHh6K",
     "shop_the_look_gyRezB"
