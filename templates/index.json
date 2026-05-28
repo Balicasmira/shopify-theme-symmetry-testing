@@ -121,14 +121,14 @@
         "1635927863703110df-1": {
           "type": "heading",
           "settings": {
-            "title": "Returns within 30 days",
+            "title": "Free Returns within 30 days",
             "use_h1": true
           }
         },
         "1635927863703110df-2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Our commitment is to guarantee customer satisfaction. If you are not satisfied with your purchase, rest assured that we offer a 30-day return period for the unworn products.</strong></p>",
+            "text": "<p><strong>Our commitment is to guarantee customer satisfaction. If you are not satisfied with your purchase, rest assured that we offer a free 30-day return period.</strong></p>",
             "enlarge_text": true
           }
         }
@@ -330,8 +330,8 @@
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
-            "title": "30-Day Returns",
-            "text": "<p><strong>Not satisfied? Get a full refund on unworn products.</strong></p>",
+            "title": "30-Day Free Returns",
+            "text": "<p><strong>Not satisfied? Get a full refund.</strong></p>",
             "button_label": "",
             "link": ""
           }
