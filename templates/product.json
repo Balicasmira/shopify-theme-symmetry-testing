@@ -126,7 +126,7 @@
           "settings": {
             "title": "Returns within 30 days",
             "icon": "",
-            "content": "<p><strong>Not satisfied? Get a full refund</strong></p>",
+            "content": "<p><strong>Not satisfied? Free returns within 30 days</strong></p>",
             "page": "",
             "custom_liquid": "",
             "open": false,
@@ -201,14 +201,14 @@
         "heading_f3RGGC": {
           "type": "heading",
           "settings": {
-            "title": "30-Day Return Guarantee",
+            "title": "30-Day Free Return Guarantee",
             "use_h1": false
           }
         },
         "text_YjWzf8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>With our 30-day free return guarantee, you can shop with complete peace of mind. If, for any reason, you are not satisfied with your purchase, you have 30 days to return the products or get refund.</strong></p>",
+            "text": "<p><strong>With our 30-day free return guarantee, you can shop with complete peace of mind. If, for any reason, you are not satisfied with your purchase, you have 30 days to return your unworn items for a full refund — return shipping is on us.</strong></p>",
             "enlarge_text": false
           }
         }
