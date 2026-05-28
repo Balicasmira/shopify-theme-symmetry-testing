@@ -42,7 +42,7 @@
         "custom_liquid_eJcmi9": {
           "type": "custom-liquid",
           "settings": {
-            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-lines{display:flex;flex-direction:column;gap:4px;}\n.ms-line{display:flex;flex-wrap:nowrap;align-items:center;}\n.ms-line-icon{height:20px;width:20px;margin-right:8px;flex-shrink:0;}\n.ms-line-icon img{height:20px;width:20px;object-fit:contain;}\n.ms-line-text p{margin:0;padding:0;color:#2e2a39;font-size:16px;}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Delivery in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Returns within 30 days</b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
+            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-lines{display:flex;flex-direction:column;gap:4px;}\n.ms-line{display:flex;flex-wrap:nowrap;align-items:center;}\n.ms-line-icon{height:20px;width:20px;margin-right:8px;flex-shrink:0;}\n.ms-line-icon img{height:20px;width:20px;object-fit:contain;}\n.ms-line-text p{margin:0;padding:0;color:#2e2a39;font-size:16px;}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Delivery in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free returns within 30 days</b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
             "show_in_quickbuy": true
           }
         },
@@ -126,7 +126,7 @@
           "settings": {
             "title": "Returns within 30 days",
             "icon": "",
-            "content": "<p><strong>Not satisfied? Get a full refund on unworn products</strong></p>",
+            "content": "<p><strong>Not satisfied? Get a full refund</strong></p>",
             "page": "",
             "custom_liquid": "",
             "open": false,
@@ -208,7 +208,7 @@
         "text_YjWzf8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>With our 30-day return guarantee, you can shop with complete peace of mind. If, for any reason, you are not satisfied with your purchase, you have 30 days to return the unworn products.</strong></p>",
+            "text": "<p><strong>With our 30-day free return guarantee, you can shop with complete peace of mind. If, for any reason, you are not satisfied with your purchase, you have 30 days to return the products or get refund.</strong></p>",
             "enlarge_text": false
           }
         }
@@ -293,7 +293,7 @@
             "enable_media": true,
             "image": "shopify://shop_images/2_120x_86fef5d3-a8be-40dc-a6cf-81e2f1a3d6ad.avif",
             "title": "30-Day Returns",
-            "text": "<p><strong>Not satisfied? Get a full refund on unworn products</strong></p>",
+            "text": "<p><strong>Not satisfied? Get a full refund.</strong></p>",
             "button_label": "",
             "link": ""
           }
