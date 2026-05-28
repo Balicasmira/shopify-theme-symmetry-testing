@@ -39,7 +39,7 @@
         "announcement_bar_col": "#4a4a4a",
         "announcement_bar_gradient": "",
         "announcement_text_col": "#ffffff",
-        "show_social_icons": true,
+        "show_social_icons": false,
         "menu": "",
         "enable_country_selector": true,
         "enable_language_selector": true
@@ -51,7 +51,7 @@
       "settings": {
         "full_width": true,
         "show_space": false,
-        "code": "<div style=\"\nwidth:100%;\nbackground:green;\ncolor:white;\npadding:13px 18px;\ntext-align:center;\nborder-top:1px solid #f0f0f0;\nborder-bottom:1px solid #f0f0f0;\n\">\n\n<div style=\"\nfont-size:10px;\nfont-weight:600;\nletter-spacing:.3px;\n\">\n\n★★★★☆ Trusted by our customers • Trustpilot Score <strong>4.2/5</strong>\n\n\n\n</div>\n\n</div>"
+        "code": "<div style=\"\nwidth:100%;\nbackground:green;\ncolor:white;\npadding:13px 18px;\ntext-align:center;\nborder-top:1px solid #f0f0f0;\nborder-bottom:1px solid #f0f0f0;\n\">\n\n<div style=\"\nfont-size:10px;\nfont-weight:600;\nletter-spacing:.3px;\n\">\n\nTrusted by our customers • Trustpilot Score <strong>4.2/5</strong>\n\n\n\n</div>\n\n</div>"
       }
     },
     "custom_liquid_i4jyQ8": {
