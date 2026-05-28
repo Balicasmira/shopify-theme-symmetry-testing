@@ -77,7 +77,7 @@
           "type": "text",
           "settings": {
             "title": "Contact",
-            "text": "<p><strong>Shop Name:</strong> Elsie & Betts ( ElsieAndBetts.com )</p><p><strong>Company number</strong> 10311084<br/><strong>Company Name</strong>: ELSIE & BETTS SHOREHAM LTD </p><p><strong>Registered Office Address: </strong>35 New England Road, Brighton, England, BN1 4GG  </p><p><strong>Contact Mail :</strong> <strong>mail@elsieandbetts.com</strong><br/></p><p><strong>Phone number</strong>: +44 1273 911590</p><p></p><p><strong>Support Hours:</strong></p><p>Monday – Saturday, 9:00 AM – 7:00 PM</p>",
+            "text": "<p><strong>Shop Name:</strong> Elsie & Betts ( ElsieAndBetts.com )</p><p><strong>Company number</strong> 10311084<br/><strong>Company Name</strong>: ELSIE & BETTS SHOREHAM LTD </p><p><strong>Registered Office Address: </strong>35 New England Road, Brighton, England, BN1 4GG  </p><p><strong>Contact Mail :</strong> <strong>mail@elsieandbetts.com</strong><br/></p><p><strong>Phone number</strong>: +44 1273 911590</p><p></p><p><strong>Support Hours:</strong></p><p>Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 12 hours .</p>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
@@ -94,10 +94,10 @@
         "1601308717434": {
           "type": "text",
           "settings": {
-            "title": "Why Elsie & Betts ?",
-            "text": "<p><strong>At Elsie & Betts ( ElsieandBetts.com), we offer exceptional quality clothing for women and men, providing a warm and personalised shopping experience. </strong></p><p><strong>Our collection reflects the latest trends and timeless classics, helping you find the perfect pieces to express your unique style.</strong></p>",
+            "title": "Customer Support",
+            "text": "<p>Need help? We’re here for you.</p><p>Support Hours:</p><p><strong>Monday – Saturday, 9:00 AM – 7:00 PM</strong></p><p>We strive to answer all inquiries within 12 hours .</p>",
             "image_width": 150,
-            "show_social_icons": true,
+            "show_social_icons": false,
             "soc_icons_large": false,
             "enable_follow_on_shop": false
           }
