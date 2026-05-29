@@ -356,7 +356,7 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Our Collections",
+        "title": "Our Best Collections",
         "enable_carousel": true,
         "grid": 4,
         "color_scheme": "default",
