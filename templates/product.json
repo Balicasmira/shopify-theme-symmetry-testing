@@ -209,9 +209,7 @@
     },
     "featured_collection_LeH3M6": {
       "type": "featured-collection",
-      "custom_css": [
-        "div {margin: 0; padding: 0; padding-bottom: 0px !important;}"
-      ],
+      "custom_css": [],
       "name": "Featured collection",
       "settings": {
         "title": "Shop Our Favorites",
