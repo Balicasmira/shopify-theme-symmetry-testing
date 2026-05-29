@@ -337,13 +337,22 @@
             "subheading": "",
             "button_label": ""
           }
+        },
+        "collection_NGKaQz": {
+          "type": "collection",
+          "settings": {
+            "collection": "flat-shoes",
+            "subheading": "",
+            "button_label": ""
+          }
         }
       },
       "block_order": [
         "collection_FHdXbU",
         "collection_nWdNWe",
         "collection_XU7MYd",
-        "collection_tAWmVJ"
+        "collection_tAWmVJ",
+        "collection_NGKaQz"
       ],
       "name": "Collection list",
       "settings": {
