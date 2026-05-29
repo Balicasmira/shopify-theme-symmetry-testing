@@ -74,7 +74,7 @@
             "subheading": "",
             "title": "Women's Selection",
             "button_label": "",
-            "link": "shopify://collections/women-collection",
+            "link": "shopify://collections/womens-collection",
             "text_alignment": "bottom left"
           }
         }
@@ -106,7 +106,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Women’s Collection",
-        "collection": "women-collection",
+        "collection": "womens-collection",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
