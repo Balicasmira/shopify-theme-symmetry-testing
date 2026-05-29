@@ -313,12 +313,21 @@
             "button_link": "shopify://pages/contact",
             "button_style": "primary"
           }
+        },
+        "image_xiMX7k": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo-elsie-and-betts_8ec5711f-0419-45e8-a02b-b714d682cb00.webp",
+            "image_width": 540,
+            "url": ""
+          }
         }
       },
       "block_order": [
         "heading_DYMFYf",
         "text_x4tCJW",
-        "button_ebTBgc"
+        "button_ebTBgc",
+        "image_xiMX7k"
       ],
       "name": "Image with text",
       "settings": {
