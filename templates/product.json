@@ -155,6 +155,9 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        "body {margin: 0; padding: 0;}"
+      ],
       "settings": {
         "title": "You may also like",
         "show_vendor": false,
@@ -206,6 +209,9 @@
     },
     "featured_collection_LeH3M6": {
       "type": "featured-collection",
+      "custom_css": [
+        "div {margin: 0; padding: 0; padding-bottom: 0px !important;}"
+      ],
       "name": "Featured collection",
       "settings": {
         "title": "Shop Our Favorites",
@@ -217,6 +223,39 @@
         "color_scheme": "default",
         "show_view_all": true,
         "full_width": true
+      }
+    },
+    "rich_text_3rjHty": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NrEgMG": {
+          "type": "heading",
+          "settings": {
+            "title": "Our mission",
+            "use_h1": false
+          }
+        },
+        "text_7x9q9f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebrating the art of elegant dressing. </p><p>We provide a carefully curated range of men’s and women’s fashion, focusing on premium fabrics and timeless designs that bring effortless sophistication to your daily life.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_NrEgMG",
+        "text_7x9q9f"
+      ],
+      "custom_css": [
+        "div {background-color: #faefef; margin-bottom: 5px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
       }
     },
     "collection_list_WNUJEb": {
@@ -313,21 +352,12 @@
             "button_link": "shopify://pages/contact",
             "button_style": "primary"
           }
-        },
-        "image_xiMX7k": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo-elsie-and-betts_8ec5711f-0419-45e8-a02b-b714d682cb00.webp",
-            "image_width": 540,
-            "url": ""
-          }
         }
       },
       "block_order": [
         "heading_DYMFYf",
         "text_x4tCJW",
-        "button_ebTBgc",
-        "image_xiMX7k"
+        "button_ebTBgc"
       ],
       "name": "Image with text",
       "settings": {
@@ -488,6 +518,7 @@
     "image_with_text_Uj9GGn",
     "custom_liquid_9iwXaQ",
     "featured_collection_LeH3M6",
+    "rich_text_3rjHty",
     "collection_list_WNUJEb",
     "image_with_text_PC6HUB",
     "178008898467c5fe3b",
