@@ -311,6 +311,7 @@
         "collection_YzAtjG",
         "collection_mcjqzp"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "title": "Our Best Collections",
@@ -517,8 +518,8 @@
     "main",
     "related-products",
     "image_with_text_Uj9GGn",
-    "custom_liquid_9iwXaQ",
     "featured_collection_LeH3M6",
+    "custom_liquid_9iwXaQ",
     "rich_text_3rjHty",
     "collection_list_WNUJEb",
     "image_with_text_PC6HUB",
