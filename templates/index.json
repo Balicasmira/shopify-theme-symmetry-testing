@@ -324,7 +324,7 @@
         "text_wjKcb3": {
           "type": "text",
           "settings": {
-            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong>+44 1273 911590<br/><strong>Email: </strong>mail@elsieandbetts.com</p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 12 hours .</p>",
+            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong><a href=\"tel:+44 1273 911590\" title=\"tel:+44 1273 911590\">+44 1273 911590</a><br/><strong>Email: </strong><a href=\"mailto:mail@elsieandbetts.com\" title=\"mailto:mail@elsieandbetts.com\">mail@elsieandbetts.com</a></p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 12 hours .</p>",
             "enlarge_text": false
           }
         },
