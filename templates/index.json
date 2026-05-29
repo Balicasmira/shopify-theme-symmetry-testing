@@ -163,6 +163,39 @@
         "full_width": false
       }
     },
+    "rich_text_pMfPAt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nKpKEb": {
+          "type": "heading",
+          "settings": {
+            "title": "Our mission",
+            "use_h1": false
+          }
+        },
+        "text_dGtHgb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebrating the art of elegant dressing. </p><p>We provide a carefully curated range of men’s and women’s fashion, focusing on premium fabrics and timeless designs that bring effortless sophistication to your daily life.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_nKpKEb",
+        "text_dGtHgb"
+      ],
+      "custom_css": [
+        "div {background-color: #FAEFEF; margin-bottom: 5px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": true,
+        "color_scheme": "default"
+      }
+    },
     "16359278867b92de38": {
       "type": "image-with-text",
       "blocks": {
@@ -182,7 +215,7 @@
         "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>To help women & mens over 30 rediscover confidence, elegance, and vitality through timeless style and perfectly tailored clothing that allows them to shine at every age.</strong></p>",
+            "text": "<p>Celebrating the art of elegant dressing. </p><p>We provide a carefully curated range of men’s and women’s fashion, focusing on premium fabrics and timeless designs that bring effortless sophistication to your daily life.</p>",
             "enlarge_text": false
           }
         },
@@ -202,8 +235,9 @@
         "ae36be52-0e56-4829-ac5d-f47fd671d46b",
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/stream-water-passing-through-cliffs.jpg",
+        "image": "shopify://shop_images/person-sits-cross-legged-in-summer-fashion.jpg",
         "image_2": "shopify://shop_images/famous-tower-bridge-evening-london-england_268835-2416.avif",
         "image_width": 390,
         "image_link": "",
@@ -542,6 +576,7 @@
     "16359278676808bea5",
     "1635927863703110df",
     "featured_collection_dA3JmY",
+    "rich_text_pMfPAt",
     "16359278867b92de38",
     "featured_collection_3wQ7FK",
     "image_with_text_wEmcpX",
