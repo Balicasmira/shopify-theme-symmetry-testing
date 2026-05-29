@@ -196,6 +196,21 @@
         "grid": 4
       }
     },
+    "featured_collection_miGLk9": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "Shop Our Favorites",
+        "collection": "shop-our-favorite-collections",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "image_with_text_Uj9GGn": {
       "type": "image-with-text",
       "blocks": {
@@ -218,6 +233,7 @@
         "heading_f3RGGC",
         "text_YjWzf8"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "image": "shopify://shop_images/pexels-calbert-warner-2889944.webp",
@@ -229,28 +245,54 @@
         "color_scheme": "default"
       }
     },
-    "featured_collection_LeH3M6": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "title": "Explore the Collection",
-        "collection": "bestseller",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "color_scheme": "default",
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
     "custom_liquid_epw7Wq": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "show_space": false,
-        "code": "<section id=\"shopify-section-template--26368028442943__custom_liquid_PnBLMC\" class=\"shopify-section section\"><style data-shopify=\"\">.section-template--26368028442943__custom_liquid_PnBLMC-padding {\n    padding-top: calc(40px * 0.75);\n    padding-bottom: calc(52px  * 0.75);\n  }\n\n  @media screen and (min-width: 750px) {\n    .section-template--26368028442943__custom_liquid_PnBLMC-padding {\n      padding-top: 40px;\n      padding-bottom: 52px;\n    }\n  }</style><div class=\"color-scheme-2 gradient\">\n  <div class=\"section-template--26368028442943__custom_liquid_PnBLMC-padding\">\n    <!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div style=\"display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px; padding: 60px 20px; max-width: 1200px; margin: auto; text-align: center; font-family: 'Noto Serif', serif;\">\n\n  <!-- Free Shipping -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      FREE SHIPPING\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Free shipping on all U.K. orders. Delivered straight to your door with no extra or hidden fees.\n    </p>\n  </div>\n\n  <!-- 30-Day Returns -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      30-DAY FREE RETURNS\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Enjoy easy, worry-free returns within 30 days. Your satisfaction is always guaranteed.\n    </p>\n  </div>\n\n  <!-- Customer Support -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      CUSTOMER SUPPORT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Need help? Our support team is here for you and ready to assist with anything you need.\n    </p>\n  </div>\n\n  <!-- Secure Payment -->\n  <div style=\"flex: 1; min-width: 220px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\" style=\"margin-bottom: 14px;\">\n    <h4 style=\"font-weight: 600; letter-spacing: 1.5px; font-size: 14px; margin-bottom: 10px;\">\n      SECURE PAYMENT\n    </h4>\n    <p style=\"font-size: 14px; color: #555; line-height: 1.6; max-width: 280px; margin: 0 auto; font-weight: 500;\">\n      Shop confidently. Every payment is encrypted and securely processed for maximum protection.\n    </p>\n  </div>\n\n</div>\n  </div>\n</div>\n\n\n</section>"
+        "code": "<!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&display=swap\" rel=\"stylesheet\">\n\n<style>\n  .features-grid {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 40px;\n    padding: 60px 20px;\n    max-width: 1200px;\n    margin: auto;\n    text-align: center;\nbackground-color:#EEEBEB;\n    font-family: 'Noto Serif', serif;\n  }\n\n  .feature-item {\n    min-width: 0;\n  }\n\n  .feature-item img {\n    margin-bottom: 14px;\n    max-width: 60px;\n    height: auto;\n  }\n\n  .feature-item h4 {\n    font-weight: 600;\n    letter-spacing: 1.5px;\n    font-size: 14px;\n    margin-bottom: 10px;\n  }\n\n  .feature-item p {\n    font-size: 14px;\n    color: #555;\n    line-height: 1.6;\n    max-width: 280px;\n    margin: 0 auto;\n    font-weight: 500;\n  }\n\n  /* Mobile */\n  @media (max-width: 749px) {\n    .features-grid {\n      grid-template-columns: 1fr;\n      gap: 30px;\n      padding: 40px 16px;\n    }\n  }\n</style>\n\n<div class=\"features-grid\">\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\">\n    <h4>FREE SHIPPING</h4>\n    <p> Enjoy free shipping on all U.K. orders, with no hidden delivery fees or extra charges at checkout. </p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\">\n    <h4>30-DAY FREE RETURNS</h4>\n    <p>Enjoy easy, worry-free returns within 30 days. Your satisfaction always comes first.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\">\n    <h4>CUSTOMER SUPPORT</h4>\n    <p>Need help? Our support team is here for you and ready to assist with anything you need.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\">\n    <h4>SECURE PAYMENT</h4>\n    <p>Shop confidently. Every payment is encrypted and securely processed for maximum protection.</p>\n  </div>\n\n</div>"
+      }
+    },
+    "image_with_text_mwb6Bt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Cy9LpG": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Support",
+            "use_h1": false
+          }
+        },
+        "text_mGGJEg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong><a href=\"tel:+44 1273 911590\" title=\"tel:+44 1273 911590\">+44 1273 911590</a><br/><strong>Email: </strong><a href=\"mailto:mail@elsieandbetts.com\" title=\"mailto:mail@elsieandbetts.com\">mail@elsieandbetts.com</a></p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 24 hours .</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_44qK9X": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify://pages/contact",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Cy9LpG",
+        "text_mGGJEg",
+        "button_44qK9X"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/contact-customer-service.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
       }
     },
     "map_eyNyNC": {
@@ -374,9 +416,10 @@
   "order": [
     "main",
     "related-products",
+    "featured_collection_miGLk9",
     "image_with_text_Uj9GGn",
-    "featured_collection_LeH3M6",
     "custom_liquid_epw7Wq",
+    "image_with_text_mwb6Bt",
     "map_eyNyNC",
     "multi_column_qjHh6K",
     "shop_the_look_gyRezB"
