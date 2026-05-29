@@ -209,7 +209,9 @@
     },
     "featured_collection_LeH3M6": {
       "type": "featured-collection",
-      "custom_css": [],
+      "custom_css": [
+        "section {padding-bottom: 0 !important;}"
+      ],
       "name": "Featured collection",
       "settings": {
         "title": "Shop Our Favorites",
@@ -245,6 +247,7 @@
         "heading_NrEgMG",
         "text_7x9q9f"
       ],
+      "disabled": true,
       "custom_css": [
         "div {background-color: #faefef; margin-bottom: 5px;}"
       ],
@@ -310,7 +313,7 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Shop Our Collections",
+        "title": "Our Best Collections",
         "enable_carousel": true,
         "grid": 4,
         "color_scheme": "default",
