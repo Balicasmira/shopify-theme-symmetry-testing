@@ -27,7 +27,7 @@
             "text": "",
             "enlarge_text": true,
             "button_label_1": "ALL PRODUCTS",
-            "button_url_1": "https://elsieandbetts.com/collections/all",
+            "button_url_1": "shopify://collections/all",
             "button_label_2": "",
             "button_url_2": "",
             "text_alignment": "center center"
