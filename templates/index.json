@@ -267,18 +267,59 @@
         "heading_tAnCKQ": {
           "type": "heading",
           "settings": {
-            "title": "Customer Support",
+            "title": "Welcome to Elsie & Betts",
             "use_h1": false
           }
         },
         "text_PBzLgg": {
           "type": "text",
           "settings": {
-            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong>+44 1273 911590<br/><strong>Email: </strong>mail@elsieandbetts.com</p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 12 hours .</p>",
+            "text": "<p><strong>Elsie & Betts</strong> is your destination for premium men’s and women’s fashion. </p><p>We blend the <strong>latest trends</strong> with timeless style, using only the finest fabrics and exceptional craftsmanship. </p><p>Whether you need a <strong>casual everyday look</strong> or refined attire for a <strong>special occasion,</strong> our curated collection is designed to make you feel confident and comfortable.</p>",
             "enlarge_text": false
           }
         },
         "button_gGbafE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+            "button_link": "shopify://pages/about-us",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tAnCKQ",
+        "text_PBzLgg",
+        "button_gGbafE"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_29_mai_2026_22_14_25.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_3zdQxb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ghKmhM": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Support",
+            "use_h1": false
+          }
+        },
+        "text_wjKcb3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong>+44 1273 911590<br/><strong>Email: </strong>mail@elsieandbetts.com</p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 12 hours .</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_FM9qj9": {
           "type": "button",
           "settings": {
             "button_label": "Contact Us",
@@ -288,9 +329,9 @@
         }
       },
       "block_order": [
-        "heading_tAnCKQ",
-        "text_PBzLgg",
-        "button_gGbafE"
+        "heading_ghKmhM",
+        "text_wjKcb3",
+        "button_FM9qj9"
       ],
       "name": "Image with text",
       "settings": {
@@ -615,6 +656,7 @@
     "16359278867b92de38",
     "featured_collection_3wQ7FK",
     "image_with_text_wEmcpX",
+    "image_with_text_3zdQxb",
     "custom_liquid_TQirXn",
     "collection_list_cinP6f",
     "16359281184fd0d618",
