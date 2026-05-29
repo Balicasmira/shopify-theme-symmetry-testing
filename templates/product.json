@@ -273,7 +273,7 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Our Collections",
+        "title": "Shop Our Collections",
         "enable_carousel": true,
         "grid": 4,
         "color_scheme": "default",
