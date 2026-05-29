@@ -62,7 +62,7 @@
             "subheading": "",
             "title": "Men's Selection",
             "button_label": "",
-            "link": "shopify://collections/men-collection",
+            "link": "shopify://collections/mens-collection",
             "text_alignment": "bottom left"
           }
         },
@@ -153,7 +153,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Men's Collection",
-        "collection": "men-collection",
+        "collection": "mens-collection",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
@@ -251,7 +251,7 @@
       "name": "Featured collection",
       "settings": {
         "title": "Shop Our Favorites",
-        "collection": "explore-collection",
+        "collection": "shop-our-favorite-collections",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
@@ -318,7 +318,7 @@
           "type": "collection",
           "disabled": true,
           "settings": {
-            "collection": "men-collection",
+            "collection": "mens-collection",
             "subheading": "",
             "button_label": ""
           }
