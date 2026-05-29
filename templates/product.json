@@ -198,8 +198,8 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "title": "Explore the Collection",
-        "collection": "explore-collection",
+        "title": "Shop Our Favorites",
+        "collection": "shop-our-favorite-collections",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
@@ -207,6 +207,66 @@
         "color_scheme": "default",
         "show_view_all": true,
         "full_width": true
+      }
+    },
+    "collection_list_WNUJEb": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_aUtjfj": {
+          "type": "collection",
+          "settings": {
+            "collection": "two-piece-set-womens",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_cBx9br": {
+          "type": "collection",
+          "settings": {
+            "collection": "swimsuits",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_YzAtjG": {
+          "type": "collection",
+          "settings": {
+            "collection": "sandals",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_qbQFyR": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses-jumpsuits",
+            "subheading": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_aUtjfj",
+        "collection_cBx9br",
+        "collection_YzAtjG",
+        "collection_qbQFyR"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "Our Collections",
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true,
+        "coll_grid_image_shape": "square",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": false,
+        "coll_text_position": "below",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
       }
     },
     "custom_liquid_9iwXaQ": {
@@ -218,25 +278,30 @@
         "code": "<!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&display=swap\" rel=\"stylesheet\">\n\n<style>\n  .features-grid {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 40px;\n    padding: 60px 20px;\n    max-width: 1200px;\n    margin: auto;\n    text-align: center;\n    font-family: 'Noto Serif', serif;\n  }\n\n  .feature-item {\n    min-width: 0;\n  }\n\n  .feature-item img {\n    margin-bottom: 14px;\n    max-width: 60px;\n    height: auto;\n  }\n\n  .feature-item h4 {\n    font-weight: 600;\n    letter-spacing: 1.5px;\n    font-size: 14px;\n    margin-bottom: 10px;\n  }\n\n  .feature-item p {\n    font-size: 14px;\n    color: #555;\n    line-height: 1.6;\n    max-width: 280px;\n    margin: 0 auto;\n    font-weight: 500;\n  }\n\n  /* Mobile */\n  @media (max-width: 749px) {\n    .features-grid {\n      grid-template-columns: 1fr;\n      gap: 30px;\n      padding: 40px 16px;\n    }\n  }\n</style>\n\n<div class=\"features-grid\">\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\">\n    <h4>FREE SHIPPING</h4>\n    <p>Free shipping on all U.K. orders. Delivered straight to your door with no extra or hidden fees.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\">\n    <h4>30-DAY FREE RETURNS</h4>\n    <p>Enjoy easy, worry-free returns within 30 days. Your satisfaction always comes first.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\">\n    <h4>CUSTOMER SUPPORT</h4>\n    <p>Need help? Our support team is here for you and ready to assist with anything you need.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\">\n    <h4>SECURE PAYMENT</h4>\n    <p>Shop confidently. Every payment is encrypted and securely processed for maximum protection.</p>\n  </div>\n\n</div>"
       }
     },
-    "collection_list_WNUJEb": {
-      "type": "collection-list",
-      "name": "Collection list",
-      "settings": {
-        "title": "Our Collections",
-        "enable_carousel": true,
-        "grid": 4,
-        "color_scheme": "default",
-        "full_width": true,
-        "coll_grid_image_shape": "square",
-        "coll_grid_image_position": "center center",
-        "coll_thumb_mob_per_row": "2",
-        "coll_grid_show_count": true,
-        "coll_text_position": "below",
-        "coll_text_position_under_mobile": false,
-        "coll_thumb_text_align_x": "center",
-        "coll_thumb_text_align_y": "center",
-        "coll_button_style": "primary"
-      }
+    "178008898467c5fe3b": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c22ea68_XVWcqa": {
+          "type": "ai_gen_block_c22ea68",
+          "settings": {
+            "button_text": "View all collections",
+            "button_url": "",
+            "desktop_width_percent": 100,
+            "button_bg_color": "#000000",
+            "button_hover_bg_color": "#232323",
+            "button_text_color": "#ffffff",
+            "button_hover_text_color": "#ffffff",
+            "font_size": 14,
+            "border_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c22ea68_XVWcqa"
+      ],
+      "disabled": true,
+      "settings": {}
     },
     "map_eyNyNC": {
       "type": "map",
@@ -361,8 +426,9 @@
     "related-products",
     "image_with_text_Uj9GGn",
     "featured_collection_LeH3M6",
-    "custom_liquid_9iwXaQ",
     "collection_list_WNUJEb",
+    "custom_liquid_9iwXaQ",
+    "178008898467c5fe3b",
     "map_eyNyNC",
     "multi_column_qjHh6K",
     "shop_the_look_gyRezB"
