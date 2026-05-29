@@ -278,6 +278,47 @@
         "code": "<!-- Import Noto Serif -->\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600&display=swap\" rel=\"stylesheet\">\n\n<style>\n  .features-grid {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 40px;\n    padding: 60px 20px;\n    max-width: 1200px;\n    margin: auto;\n    text-align: center;\n    font-family: 'Noto Serif', serif;\n  }\n\n  .feature-item {\n    min-width: 0;\n  }\n\n  .feature-item img {\n    margin-bottom: 14px;\n    max-width: 60px;\n    height: auto;\n  }\n\n  .feature-item h4 {\n    font-weight: 600;\n    letter-spacing: 1.5px;\n    font-size: 14px;\n    margin-bottom: 10px;\n  }\n\n  .feature-item p {\n    font-size: 14px;\n    color: #555;\n    line-height: 1.6;\n    max-width: 280px;\n    margin: 0 auto;\n    font-weight: 500;\n  }\n\n  /* Mobile */\n  @media (max-width: 749px) {\n    .features-grid {\n      grid-template-columns: 1fr;\n      gap: 30px;\n      padding: 40px 16px;\n    }\n  }\n</style>\n\n<div class=\"features-grid\">\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/delivery.png?v=1780009091\" alt=\"Free Shipping\">\n    <h4>FREE SHIPPING</h4>\n    <p>Free shipping on all U.K. orders. Delivered straight to your door with no extra or hidden fees.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/return-purchase.png?v=1780009091\" alt=\"30-Day Returns\">\n    <h4>30-DAY FREE RETURNS</h4>\n    <p>Enjoy easy, worry-free returns within 30 days. Your satisfaction always comes first.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/customer-support.png?v=1780009091\" alt=\"Customer Support\">\n    <h4>CUSTOMER SUPPORT</h4>\n    <p>Need help? Our support team is here for you and ready to assist with anything you need.</p>\n  </div>\n\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/lock-2.png?v=1780009091\" alt=\"Secure Payment\">\n    <h4>SECURE PAYMENT</h4>\n    <p>Shop confidently. Every payment is encrypted and securely processed for maximum protection.</p>\n  </div>\n\n</div>"
       }
     },
+    "image_with_text_PC6HUB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DYMFYf": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Support",
+            "use_h1": false
+          }
+        },
+        "text_x4tCJW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need help? We’re just an email or call away:<br/><strong>Phone: </strong><a href=\"tel:+44 1273 911590\" title=\"tel:+44 1273 911590\">+44 1273 911590</a><br/><strong>Email: </strong><a href=\"mailto:mail@elsieandbetts.com\" title=\"mailto:mail@elsieandbetts.com\">mail@elsieandbetts.com</a></p><p><strong>Support Hours:</strong>  Monday – Saturday, 9:00 AM – 7:00 PM</p><p><br/>We strive to answer all inquiries within 24 hours .</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ebTBgc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify://pages/contact",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DYMFYf",
+        "text_x4tCJW",
+        "button_ebTBgc"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/contact-customer-service.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
     "178008898467c5fe3b": {
       "type": "_blocks",
       "blocks": {
@@ -428,6 +469,7 @@
     "featured_collection_LeH3M6",
     "collection_list_WNUJEb",
     "custom_liquid_9iwXaQ",
+    "image_with_text_PC6HUB",
     "178008898467c5fe3b",
     "map_eyNyNC",
     "multi_column_qjHh6K",
