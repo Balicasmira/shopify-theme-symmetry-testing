@@ -70,7 +70,7 @@
           "type": "custom-liquid",
           "settings": {
             "custom_liquid": "<div class=\"stock-status\">\n    <span class=\"stock-dot\"></span>\n    <span>Available in stock</span>\n</div>\n\n<style>\n.stock-status{\n    display:flex;\n    align-items:center;\n    gap:8px;\n    font-size:14px;\n    font-weight:500;\n    color:#004ED4;\n}\n.stock-dot{\n    width:10px;\n    height:10px;\n    background:#004ED4;\n    border-radius:50%;\n    animation:pulse 1.8s infinite;\n}\n@keyframes pulse{\n    0%{box-shadow:0 0 0 0 rgba(46,125,50,.5);}\n    70%{box-shadow:0 0 0 8px rgba(46,125,50,0);}\n    100%{box-shadow:0 0 0 0 rgba(46,125,50,0);}\n}\n</style>",
-            "show_in_quickbuy": false
+            "show_in_quickbuy": true
           }
         },
         "buy-buttons": {
