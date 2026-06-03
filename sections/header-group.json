@@ -17,7 +17,7 @@
         "announcement-2": {
           "type": "announcement",
           "settings": {
-            "text": "Free Delivery in the UK",
+            "text": "Free Shipping in the UK",
             "show_countdown": false,
             "hide_on_end": false,
             "end_date": "",

@@ -185,6 +185,7 @@
         "heading_nKpKEb",
         "text_dGtHgb"
       ],
+      "disabled": true,
       "custom_css": [
         "div {background-color: #faefef; margin-bottom: 5px;}"
       ],
