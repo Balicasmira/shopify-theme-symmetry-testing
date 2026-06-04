@@ -34,7 +34,14 @@
         "custom_liquid_eJcmi9": {
           "type": "custom-liquid",
           "settings": {
-            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-line{\n  display:flex;\n  align-items:center;\n  gap:8px;\n}\n\n.ms-line-icon{\n  width:20px;\n  height:20px;\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  flex-shrink:0;\n  line-height:0; /* IMPORTANT FIX */\n}\n\n.ms-line-icon img{\n  width:20px;\n  height:20px;\n  object-fit:contain;\n  display:block;\n  vertical-align:middle; /* extra safety */\n}\n\n.ms-line-text{\n  display:flex;\n  align-items:center;\n}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Shipping in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free returns within 30 days</b></div>\n  </div>\n<div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0998/9557/4910/files/2168741.png?v=1780162903\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">VAT Included</b></div>\n  </div>\n \n \n  </div>\n</div>\n</div>",
+            "custom_liquid": "<div class=\"lightly-spaced-row not-in-quickbuy\"><style>\n.ms-line{\n  display:flex;\n  align-items:center;\n  gap:8px;\n}\n\n.ms-line-icon{\n  width:20px;\n  height:20px;\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  flex-shrink:0;\n  line-height:0; /* IMPORTANT FIX */\n}\n\n.ms-line-icon img{\n  width:20px;\n  height:20px;\n  object-fit:contain;\n  display:block;\n  vertical-align:middle; /* extra safety */\n}\n\n.ms-line-text{\n  display:flex;\n  align-items:center;\n}\n.instock-pulse{display:flex;flex-wrap:nowrap;align-items:center;}\n.icon--pulsing{position:relative;width:20px;height:20px;margin-right:8px;flex-shrink:0;}\n.icon--pulsing:after,.icon--pulsing:before{background:#f59e0b;width:10px;height:10px;border-radius:10px;position:absolute;left:0;top:0;content:\"\";margin:5px;}\n@keyframes inventory-pulse{0%{opacity:.5}to{transform:scale(2.5);opacity:0}}\n.icon--pulsing:before{animation:inventory-pulse 2s linear infinite;}\n</style>\n\n\n<div class=\"ms-lines\">\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0880/6714/6072/files/delivery-truck.png?v=1736604375\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free Shipping in the UK</b></div>\n  </div>\n  <div class=\"ms-line\">\n    <div class=\"ms-line-icon\"><img src=\"https://cdn.shopify.com/s/files/1/0641/3880/5499/files/return_1.png?v=1727347572\"></div>\n    <div class=\"ms-line-text\"><b style=\"color:green\">Free returns within 30 days</b></div>\n  </div>\n\n \n \n  </div>\n</div>\n</div>",
+            "show_in_quickbuy": true
+          }
+        },
+        "custom_liquid_VTAhif": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"stock-status\">\n    <span class=\"stock-dot\"></span>\n    <span>Available in stock</span>\n</div>\n\n<style>\n.stock-status{\n    display:flex;\n    align-items:center;\n    gap:8px;\n    font-size:14px;\n    font-weight:500;\n    color:#004ED4;\n}\n.stock-dot{\n    width:10px;\n    height:10px;\n    background:#004ED4;\n    border-radius:50%;\n    animation:pulse 1.8s infinite;\n}\n@keyframes pulse{\n    0%{box-shadow:0 0 0 0 rgba(46,125,50,.5);}\n    70%{box-shadow:0 0 0 8px rgba(46,125,50,0);}\n    100%{box-shadow:0 0 0 0 rgba(46,125,50,0);}\n}\n</style>",
             "show_in_quickbuy": true
           }
         },
@@ -72,13 +79,6 @@
           "type": "divider",
           "settings": {
             "show_in_quickbuy": false
-          }
-        },
-        "custom_liquid_VTAhif": {
-          "type": "custom-liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"stock-status\">\n    <span class=\"stock-dot\"></span>\n    <span>Available in stock</span>\n</div>\n\n<style>\n.stock-status{\n    display:flex;\n    align-items:center;\n    gap:8px;\n    font-size:14px;\n    font-weight:500;\n    color:#004ED4;\n}\n.stock-dot{\n    width:10px;\n    height:10px;\n    background:#004ED4;\n    border-radius:50%;\n    animation:pulse 1.8s infinite;\n}\n@keyframes pulse{\n    0%{box-shadow:0 0 0 0 rgba(46,125,50,.5);}\n    70%{box-shadow:0 0 0 8px rgba(46,125,50,0);}\n    100%{box-shadow:0 0 0 0 rgba(46,125,50,0);}\n}\n</style>",
-            "show_in_quickbuy": true
           }
         },
         "buy-buttons": {
@@ -125,7 +125,7 @@
             "content": "<p><strong>Enjoy free shipping in the UK:</strong></p><ul><li><strong>Estimated Total Delivery Time: 7 – 10 business days</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
-            "open": false,
+            "open": true,
             "show_in_quickbuy": false
           }
         },
@@ -143,6 +143,7 @@
         },
         "accordion_bTM3cw": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "title": "Secure payment",
             "icon": "",
@@ -159,12 +160,12 @@
         "price",
         "custom_liquid_9NBRtU",
         "custom_liquid_eJcmi9",
+        "custom_liquid_VTAhif",
         "vendor",
         "divider",
         "variant-picker",
         "custom_liquid_KdTKVh",
         "divider_mHJB3G",
-        "custom_liquid_VTAhif",
         "buy-buttons",
         "custom_liquid_JNUxLV",
         "custom_liquid_mhqWgz",
