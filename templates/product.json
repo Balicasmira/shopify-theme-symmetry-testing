@@ -101,7 +101,7 @@
             "content": "<p><strong>Enjoy free shipping in the UK:</strong></p><ul><li><strong>Estimated Total Delivery Time: 7 – 10 business days</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
-            "open": false,
+            "open": true,
             "show_in_quickbuy": false
           }
         },
